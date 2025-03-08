@@ -1,0 +1,1 @@
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|libcap,aaa_libraries|libpng,aaa_libraries|ncurses,aaa_libraries|pcre,aaa_libraries|readline,aaa_libraries|zlib,aaa_libraries|zstd,dbus,elogind,icu4c,libX11,libXau,libXdmcp,libXext,libglvnd,libnl3,libxcb,openssl|openssl-solibs,pcre2,qt5

@@ -1,0 +1,1 @@
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|libcap,aaa_libraries|libpng,aaa_libraries|pcre,aaa_libraries|zlib,aaa_libraries|zstd,dbus,elogind,fcitx5,fcitx5-qt,glib2,icu4c|icu4c-compat,json-glib,libX11,libXau,libXdmcp,libXext,libevent,libffi,libgee,libglvnd,libkkc,libxcb,libxkbcommon,marisa,pcre2,qt5,util-linux

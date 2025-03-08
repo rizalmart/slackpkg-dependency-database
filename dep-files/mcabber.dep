@@ -1,0 +1,1 @@
+aaa_libraries|glib2,aaa_libraries|gmp,aaa_libraries|keyutils,aaa_libraries|krb5,aaa_libraries|libffi,aaa_libraries|libidn,aaa_libraries|libidn2,aaa_libraries|libnsl,aaa_libraries|libtirpc,aaa_libraries|ncurses,aaa_libraries|pcre,e2fsprogs,gnutls,gpgme,libassuan,libgpg-error,libunistring,loudmouth,nettle,p11-kit

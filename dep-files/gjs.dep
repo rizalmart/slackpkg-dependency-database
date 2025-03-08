@@ -1,0 +1,1 @@
+aaa_libraries|bzip2,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libffi,aaa_libraries|ncurses,aaa_libraries|pcre2,aaa_libraries|readline,aaa_libraries|xz,aaa_libraries|zlib,brotli,cairo,fontconfig,freetype,glib2,gobject-introspection,graphite2,harfbuzz,icu4c,libX11,libXau,libXdmcp,libXext,libXrender,libpng,libxcb,libxml2,mozjs128,pixman,util-linux

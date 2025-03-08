@@ -1,0 +1,1 @@
+aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|libffi,aaa_libraries|libjpeg-turbo,aaa_libraries|libpng,aaa_libraries|libusb,aaa_libraries|pcre,aaa_libraries|xz,aaa_libraries|zlib,gdk-pixbuf2,glib2,icu4c,libimobiledevice,libimobiledevice-glue,libplist,libusbmuxd,libxml2,openssl|openssl-solibs,sg3_utils,sqlite,util-linux

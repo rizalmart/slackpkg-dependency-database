@@ -1,0 +1,1 @@
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|libcap,aaa_libraries|libpng,aaa_libraries|pcre,aaa_libraries|zlib,aaa_libraries|zstd,dbus,elogind,icu4c,kcompletion,kconfig,kcoreaddons,kdbusaddons,ki18n,kitemviews,kwidgetsaddons,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb,pcre2,qt5

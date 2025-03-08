@@ -1,0 +1,1 @@
+aaa_libraries|acl,aaa_libraries|attr,aaa_libraries|bzip2,aaa_libraries|db48,aaa_libraries|elfutils,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libcap,aaa_libraries|popt,aaa_libraries|xz,aaa_libraries|zlib,aaa_libraries|zstd,dbus,elfutils,elogind,file,icu4c,libarchive,libgcrypt,libgpg-error,libxml2,lz4,openssl|openssl-solibs,sqlite

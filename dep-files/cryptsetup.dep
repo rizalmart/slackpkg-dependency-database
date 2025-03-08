@@ -1,0 +1,1 @@
+aaa_libraries|argon2,aaa_libraries|eudev,aaa_libraries|keyutils,aaa_libraries|krb5,aaa_libraries|lvm2,aaa_libraries|popt,aaa_libraries|zlib,e2fsprogs,json-c,libgcrypt,libgpg-error,libssh,openssl|openssl-solibs,util-linux
