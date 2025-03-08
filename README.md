@@ -1,4 +1,4 @@
-This repo for tracking dependencies of official slackware-current packages. Mirrored from slackel
+This is repo for tracking dependencies of official slackware-current packages. Mirrored from slackel
 
 How contribute:
 * Create a dep file with this filename format:<br>`<slackware package name>.dep`
