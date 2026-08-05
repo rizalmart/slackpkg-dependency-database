@@ -36,10 +36,9 @@ jobs:
             
             cd dep-files
 
-            ls | xargs -i  md5sum {} | awk '{ print $2"|"$1 }' > $last_dir/dep-file-checksums.txt
-            md5sum $last_dir/dep-file-checksums.txt | awk '{ print $1 }' > $last_dir/dep-file-checksums.md5
+            ls | xargs -i  md5sum {} | awk '{ print $2"|"$1 }' > dep-file-checksums.txt
+            md5sum dep-file-checksums.txt | awk '{ print $1 }' > dep-file-checksums.md5
                
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
