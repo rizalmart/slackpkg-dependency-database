@@ -32,9 +32,20 @@ jobs:
                --no-verbose \
                https://slackware.uk/slackel/x86_64/slackware-current/deps/
 
+            last_dir=$(pwd)
+            
+            cd dep-files
+
+            ls | xargs -i  md5sum {} | awk '{ print $2"|"$1 }' > $last_dir/dep-file-checksums.txt
+            md5sum $last_dir/dep-file-checksums.txt | awk '{ print $1 }' > $last_dir/dep-file-checksums.md5
+               
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: weekly sync of dependency database files'
-          file_pattern: 'dep-files/*'
+          file_pattern: |
+                         dep-files/*
+                         dep-file-checksums.txt
+                         dep-file-checksums.md5                         
           commit_author: 'github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
