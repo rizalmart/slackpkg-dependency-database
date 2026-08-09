@@ -124,6 +124,7 @@ dconf-editor.dep|35e1b41dc4e3881da9b411b7a56c3d56
 dconf.dep|a0b9b0018bea7e8d4772dce6a392f67c
 ddd.dep|117f04f17e6efc1c0b4bc7916df3694a
 ddrescue.dep|aef32bce0efb1b5910409d6cec5c33f2
+dep-file-checksums.md5|eee3904669420d15858ceb57bdf177c0
 dep-file-checksums.txt|b550a79b5dd4fae7faa66150271c7436
 desktop-file-utils.dep|8884da931f68cb99685c37063d417e93
 dhcpcd.dep|173341c6015c3951ba92b5ed8a543fab
