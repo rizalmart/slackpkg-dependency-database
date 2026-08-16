@@ -16,7 +16,6 @@ SDL2_mixer.dep|6b5ae4b3f1e7987a12d16759fb184317
 SDL2_net.dep|166a0785b6c65717672cf7b797e78937
 SDL2_ttf.dep|3507e30e4bb3ba3917ae4d2457ff9688
 a2ps.dep|d6379d574f09f153d6af2b1aa1601059
-aaa_libraries.con|cf3a1b39efd18d66b3b96ac1c3061c53
 aaa_libraries.dep|b344496fd2b4c761a6cfb2f6007854c0
 aalib.dep|791cd0bf9b51a4f8be8a21b12083efdd
 abseil-cpp.dep|aef32bce0efb1b5910409d6cec5c33f2
@@ -92,7 +91,6 @@ calligraplan.dep|1bd163a252991beab5da2afb2a32d469
 cantor.dep|07bf78d0854e16858b57978f1f34ff66
 ccache.dep|0d13eeb768b4e00284d18dae0bfbf7d5
 cdrdao.dep|a53c63fb1895b460acfca87cd10b2859
-cdrtools.con|d0463f6bc19a4e5aa236671375acdd65
 cdrtools.dep|c3f7271f5648b3f1bb0769a4dfd2f668
 cervisia.dep|9e2689c113da4f75d8850e2e787df46c
 cfitsio.dep|9022b235a3d3b0eaf13f76a70160595d
@@ -124,8 +122,6 @@ dconf-editor.dep|35e1b41dc4e3881da9b411b7a56c3d56
 dconf.dep|a0b9b0018bea7e8d4772dce6a392f67c
 ddd.dep|117f04f17e6efc1c0b4bc7916df3694a
 ddrescue.dep|aef32bce0efb1b5910409d6cec5c33f2
-dep-file-checksums.md5|33a48e3aea258ac84b1a8fd6d46315bd
-dep-file-checksums.txt|b550a79b5dd4fae7faa66150271c7436
 desktop-file-utils.dep|8884da931f68cb99685c37063d417e93
 dhcpcd.dep|173341c6015c3951ba92b5ed8a543fab
 dialog.dep|0f4ee886372ef28309c4a1d055b700fb
@@ -271,9 +267,7 @@ grub.dep|08df4f25c7dc9fcfe42fda0187832691
 gspell.dep|022d7963bbb210595f4ad46ed9bdc239
 gst-plugins-bad-free.dep|2d0babfb493180e5d36f5bee505b5a22
 gst-plugins-base.dep|c653bbd87f08c87d9e470ff67e4c0f71
-gst-plugins-base.sug|294bd320d0b49d28bc8f9f163e71d604
 gst-plugins-good.dep|b0e21aaa2fdaa5ef8d9f68bb82486444
-gst-plugins-good.sug|23e72ea7013d15555d20d018b0702bee
 gst-plugins-libav.dep|6c8792b94a603b3a6cfc9bc8b17c2e72
 gstreamer.dep|9839c8f76226f7fef12b386551255e70
 gtk+.dep|672e3708e36cbeab5c48165cc9c26fb7
@@ -290,7 +284,6 @@ guile.dep|f0a931c74936403e30be0b3b0887e61b
 gutenprint.dep|a718768fee9f7b1cff1cbc295712745a
 gv.dep|220ec9b6daa39b5f9546141bd41cd461
 gvfs.dep|46c7550ec6d6d88408bf319438e03c3e
-gvfs.sug|6fb999995f74c24d93fdf717c863432a
 gwenview.dep|1bdd2b27a0bf1be581768aa2a540acfd
 harfbuzz.dep|f6892681ec931d57b20db4a75fdc998c
 hexchat.dep|8494c3369aaee630cea89d5114433801
@@ -611,7 +604,6 @@ libXxf86dga.dep|81504fcf23f84b8cf940737df3b3fe74
 libXxf86misc.dep|81504fcf23f84b8cf940737df3b3fe74
 libXxf86vm.dep|81504fcf23f84b8cf940737df3b3fe74
 libao.dep|eb6dbc4e505142720e7f3d570e3daf52
-libao.sug|8a4a6fb8650b411ea7dbab11c150cc67
 libappindicator.dep|dc45e2d4ff670973ef5a41422e9011bb
 libarchive.dep|105fcc7692f6491b7c86e84fa535ac8e
 libassuan.dep|05f7d5f851b16cd0e5773af9db3bf0f0
@@ -989,7 +981,6 @@ rzip.dep|b7c38ed51699e3caa3995858c46ecaea
 s-nail.dep|e3196da04bf76601adbc433ba757efe2
 samba.dep|aeb7468778262b69b0e71d910a70356a
 sane.dep|2ed646a688682c108babb51f9e4b8cf1
-sane.sug|0a4ff4a7028c6c18f1804fb90a2024b5
 sassc.dep|009b1533d28f8b767d306e45731f7ff6
 sc-im.dep|b3db65c7047ec9e53ec2a856d2fdceb5
 sc.dep|0f4ee886372ef28309c4a1d055b700fb
