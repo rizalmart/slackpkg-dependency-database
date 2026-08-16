@@ -36,7 +36,7 @@ jobs:
             
             cd dep-files
 
-            ls | xargs -i  md5sum {} | awk '{ print $2"|"$1 }' > dep-file-checksums.txt
+            ls | xargs -i  md5sum {} | awk '{ print $2"|"$1 }' | grep ".dep" > dep-file-checksums.txt
             md5sum dep-file-checksums.txt | awk '{ print $1 }' > dep-file-checksums.md5
                
       - name: Commit and push changes
