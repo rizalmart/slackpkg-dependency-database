@@ -619,7 +619,7 @@ libcddb.dep|9d3bae27192b97571b9721bcc20f97ae
 libcdio-paranoia.dep|9d3bae27192b97571b9721bcc20f97ae
 libcdio.dep|ea2d05050032a8ebee186e2b6a5ca902
 libcgroup.dep|2f0132bb52ca32d3d627b6132f48e20e
-libcupsfilters.dep|34079f5f47dea9d4cfa4dd774455b765
+libcupsfilters.dep|357c4be1c2f5b89366e2f962969a13b3
 libdbusmenu-qt.dep|638150ca4d2d40d1352b4612e1e94b0c
 libdbusmenu.dep|b0540a64c258ecf5c782ea37eaed7b20
 libdmx.dep|81504fcf23f84b8cf940737df3b3fe74
@@ -654,6 +654,7 @@ libindicator.dep|b0540a64c258ecf5c782ea37eaed7b20
 libinput.dep|99c4546873bb00caa7c4e6deb26e78ae
 libiodbc.dep|66cd27e706c0b569eeff2f4f7a9e4da0
 libjpeg-turbo.dep|43726cdab374d973294778ac89722e47
+libjxl.dep|ade52c1793062c486f92ac06ba2a32da
 libkarma.dep|0a9cdcf81093c2325b7e23a6e4078048
 libkcddb.dep|06a3d792d5e19763c1b88b2ecb34c7ab
 libkcompactdisc.dep|28da91b1d2bfedab87a171feda9f7602
@@ -875,6 +876,7 @@ pciutils.dep|7568a1302c8e907b688cd624b2578cc0
 pcmciautils.dep|909d0c8692dea837fe54365b251dd7b8
 pcre.dep|894c68801a05b67f8e76535075aa34c1
 pcre2.dep|1a61cec40019395f0a5c3ac09bf7aaad
+pdfio.dep|74a2d88d80f7e3c030a75552471247d1
 perl.dep|fc9376092dca5aaa8b94689b7d46c694
 phonon-backend-gstreamer.dep|8ba74ff24386d191a7fc4ef8dee00aed
 phonon.dep|00dc0022efe88172bbcbe534006ba703
