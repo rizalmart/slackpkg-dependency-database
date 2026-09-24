@@ -1,1 +1,1 @@
-aaa_libraries|gcc,aaa_libraries|gcc-g++,gpgme,libassuan,libgpg-error
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libgpg-error,gpgme,libassuan

@@ -1,1 +1,1 @@
-aaa_libraries|bzip2,aaa_libraries|glib2,aaa_libraries|libpng,aaa_libraries|pcre,aaa_libraries|zlib,brotli,freetype,graphite2,harfbuzz,libXfont2,libfontenc
+aaa_libraries|bzip2,aaa_libraries|libpng,aaa_libraries|pcre2,aaa_libraries|zlib,brotli,freetype,glib2,graphite2,harfbuzz,libXfont2,libfontenc

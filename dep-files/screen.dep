@@ -1,1 +1,1 @@
-aaa_libraries|ncurses,pam,utempter
+aaa_glibc-solibs|glibc,aaa_libraries|ncurses,pam,utempter

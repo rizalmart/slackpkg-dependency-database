@@ -1,1 +1,1 @@
-aaa_libraries,aaa_libraries|elfutils,aaa_libraries|libffi,aaa_libraries|pcre,aaa_libraries|zlib,util-linux
+aaa_libraries|bzip2,aaa_libraries|elfutils,aaa_libraries|libffi,aaa_libraries|pcre2,aaa_libraries|zlib,aaa_libraries|zstd,util-linux,xz

@@ -1,1 +1,1 @@
-aaa_libraries|bzip2,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|pcre,aaa_libraries|xz,aaa_libraries|zlib,aaa_libraries|zstd,icu4c,pcre2,qt5
+aaa_libraries|bzip2,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|pcre2,aaa_libraries|zlib,aaa_libraries|zstd,glib2,icu4c,liburing,openssl|openssl-solibs,pcre2,qt6,xz

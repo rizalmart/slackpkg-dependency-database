@@ -1,1 +1,1 @@
-aaa_libraries|bzip2,aaa_libraries|libidn2,aaa_libraries|ncurses,aaa_libraries|zlib,libunistring,openssl|openssl-solibs
+aaa_libraries|bzip2,aaa_libraries|libidn2,aaa_libraries|libunistring,aaa_libraries|ncurses,aaa_libraries|zlib,aaa_libraries|zstd,brotli,openssl|openssl-solibs

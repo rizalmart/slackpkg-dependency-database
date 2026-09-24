@@ -1,1 +1,1 @@
-aaa_libraries|ncurses
+aaa_glibc-solibs|glibc,aaa_libraries|ncurses

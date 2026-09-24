@@ -1,1 +1,1 @@
-aaa_libraries|glib2,aaa_libraries|pcre,aaa_libraries|xz,aaa_libraries|zlib,libxml2
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|pcre2,aaa_libraries|zlib,glib2,libxml2

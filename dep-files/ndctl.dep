@@ -1,1 +1,1 @@
-aaa_libraries|eudev,aaa_libraries|keyutils,aaa_libraries|xz,aaa_libraries|zlib,aaa_libraries|zstd,json-c,kmod,openssl|openssl-solibs,util-linux
+aaa_libraries|eudev,aaa_libraries|json-c,aaa_libraries|keyutils,aaa_libraries|zlib,aaa_libraries|zstd,iniparser,kmod,libtraceevent,libtracefs,openssl|openssl-solibs,util-linux,xz

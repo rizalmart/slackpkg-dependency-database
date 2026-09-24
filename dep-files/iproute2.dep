@@ -1,1 +1,1 @@
-aaa_libraries|db48,aaa_libraries|elfutils,aaa_libraries|libcap,aaa_libraries|zlib,dbus,elogind,iptables,libmnl,libnl3,libpcap
+aaa_libraries|bzip2,aaa_libraries|db48,aaa_libraries|elfutils,aaa_libraries|keyutils,aaa_libraries|krb5,aaa_libraries|libcap,aaa_libraries|libtirpc,aaa_libraries|zlib,aaa_libraries|zstd,e2fsprogs,iptables,libmnl,xz

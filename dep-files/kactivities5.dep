@@ -1,0 +1,1 @@
+aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|keyutils,aaa_libraries|krb5,aaa_libraries|libpng,aaa_libraries|pcre2,aaa_libraries|zlib,aaa_libraries|zstd,dbus,e2fsprogs,glib2,icu4c,kconfig5,kcoreaddons5,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb,openssl|openssl-solibs,pcre2,qt5

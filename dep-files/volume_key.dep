@@ -1,1 +1,1 @@
-aaa_libraries|argon2,aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|lvm2,aaa_libraries|pcre,aaa_libraries|zlib,cryptsetup,gpgme,icu4c,json-c,libassuan,libgpg-error,mozilla-nss,openssl|openssl-solibs,python2,sqlite,util-linux
+aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|json-c,aaa_libraries|libgpg-error,aaa_libraries|lvm2,aaa_libraries|pcre2,aaa_libraries|zlib,cryptsetup,glib2,gpgme,icu4c,libassuan,mozilla-nss,openssl|openssl-solibs,sqlite,util-linux

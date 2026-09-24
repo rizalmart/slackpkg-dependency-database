@@ -1,1 +1,1 @@
-aaa_libraries|bzip2,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|xz,aaa_libraries|zlib,aaa_libraries|zstd,icu4c
+aaa_libraries|bzip2,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|zlib,aaa_libraries|zstd,gcc,icu4c,openssl|openssl-solibs,xz

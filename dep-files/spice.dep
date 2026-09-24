@@ -1,0 +1,1 @@
+aaa_libraries|bzip2,aaa_libraries|elfutils,aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libffi,aaa_libraries|libjpeg-turbo,aaa_libraries|libunwind,aaa_libraries|pcre2,aaa_libraries|zlib,aaa_libraries|zstd,cyrus-sasl,elfutils,glib2,gst-plugins-base,gstreamer,libdrm,lz4,openssl|openssl-solibs,opus,orc,pixman,util-linux,xz

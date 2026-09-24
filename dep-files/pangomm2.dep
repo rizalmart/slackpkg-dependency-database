@@ -1,0 +1,1 @@
+aaa_libraries|bzip2,aaa_libraries|expat,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libffi,aaa_libraries|libpng,aaa_libraries|pcre2,aaa_libraries|zlib,brotli,cairo,cairomm1,fontconfig,freetype,fribidi,glib2,glibmm2,graphite2,harfbuzz,libX11,libXau,libXdmcp,libXext,libXrender,libsigc++3,libxcb,pango,pixman,util-linux

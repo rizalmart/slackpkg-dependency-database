@@ -1,0 +1,1 @@
+aaa_libraries|eudev,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libcap,aaa_libraries|libffi,aaa_libraries|libpng,aaa_libraries|pcre2,aaa_libraries|zlib,aaa_libraries|zstd,dbus,elogind,glib2,icu4c,kcoreaddons5,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb,pcre2,polkit,polkit-qt-1,qt5,util-linux

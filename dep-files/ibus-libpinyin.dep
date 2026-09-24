@@ -1,1 +1,1 @@
-OpenCC,aaa_libraries|db48,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|glib2,aaa_libraries|pcre,aaa_libraries|zlib,glib2,ibus,icu4c|icu4c-compat,libffi,libpinyin,sqlite,util-linux
+OpenCC,aaa_libraries|db48,aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libffi,aaa_libraries|libjpeg-turbo,aaa_libraries|libpng,aaa_libraries|ncurses,aaa_libraries|pcre2,aaa_libraries|readline,aaa_libraries|zlib,gdk-pixbuf2,glib2,ibus,icu4c,libnotify,libpinyin,lua,marisa,sqlite,util-linux

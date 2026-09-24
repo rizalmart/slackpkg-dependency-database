@@ -1,1 +1,1 @@
-aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libcap,anthy-unicode,dbus,elogind,fcitx5,libevent,libxkbcommon,util-linux
+aaa_libraries|gcc,aaa_libraries|gcc-g++,aaa_libraries|libxkbcommon,anthy-unicode,dbus,fcitx5,libuv,util-linux

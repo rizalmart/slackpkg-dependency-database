@@ -1,1 +1,1 @@
-libglvnd|libinput|pixman|lcms2|libliftoff|libxcb|mesa|seatd|vulkan-sdk|wayland|libxkbcommon|xcb-util-errors
+aaa_libraries|eudev,aaa_libraries|expat,aaa_libraries|gcc,aaa_libraries|libcap,aaa_libraries|libffi,aaa_libraries|libxkbcommon,aaa_libraries|ncurses,aaa_libraries|pcre2,aaa_libraries|readline,elogind,glib2,lcms2,libXau,libXdmcp,libdisplay-info,libdrm,libevdev,libglvnd,libgudev,libinput,libwacom,libxcb,lua,mesa,mtdev,pixman,seatd,vulkan-sdk,wayland,xcb-util-errors,xcb-util-renderutil,xcb-util-wm

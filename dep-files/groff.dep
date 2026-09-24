@@ -1,1 +1,1 @@
-aaa_libraries|gcc,aaa_libraries|gcc-g++,util-linux
+aaa_libraries|gcc,aaa_libraries|gcc-g++,libICE,libSM,libX11,libXau,libXaw,libXdmcp,libXext,libXmu,libXpm,libXt,libxcb,util-linux

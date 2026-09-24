@@ -1,1 +1,1 @@
-aaa_libraries|zlib,openssl|openssl-solibs
+aaa_glibc-solibs|glibc,aaa_libraries|zlib,openssl|openssl-solibs,pam
